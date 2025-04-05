@@ -7,10 +7,9 @@ This is a Python script that generates customized passwords based on your prefer
 
 The script will ask you a few questions to customize your password:
 
-1.  How long do you want the password to be?
-2.  Do you want to include letters? (yes/no)
-3.  Do you want to include numbers? (yes/no)
-4.  Do you want to include symbols? (yes/no)
+1.  How many letters do you want in your password?
+2.  How many numbers do you want in your password?
+3.  How many symbols do you want in your password?
 
 After you answer these questions, the script will generate and display your customized password.
 
