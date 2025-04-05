@@ -1,8 +1,6 @@
 # Customized-Password-Generator
 Hello guys! Here is one of my random python codes (not very advanced) I did when I was a beginner. Just wanted to share with you! Why don't you take a quick look!
 
-# Customized Password Generator
-
 This is a Python script that generates customized passwords based on your preferences. You can specify the length and character types (letters, numbers, symbols) to create strong, secure passwords.
 
 ## How to Use
